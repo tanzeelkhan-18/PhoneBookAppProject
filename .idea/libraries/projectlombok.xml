@@ -1,0 +1,10 @@
+<component name="libraryTable">
+  <library name="projectlombok">
+    <CLASSES>
+      <root url="file://$MAVEN_REPOSITORY$/org/projectlombok" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES />
+    <jarDirectory url="file://$MAVEN_REPOSITORY$/org/projectlombok" recursive="false" />
+  </library>
+</component>
